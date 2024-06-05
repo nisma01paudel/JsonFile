@@ -1,0 +1,1286 @@
+[
+    {
+        "category": "middleeast",
+        "country": "Saudi Arabia",
+        "map_image": "assets/maps/middleeast/sa.png",
+        "options": [
+            "Saudi Arabia",
+            "Yemen",
+            "Oman",
+            "United Arab Emirates"
+        ],
+        "correct_answer": "Saudi Arabia"
+    },
+    {
+        "category": "middleeast",
+        "country": "United Arab Emirates",
+        "map_image": "assets/maps/middleeast/ae.png",
+        "options": [
+            "United Arab Emirates",
+            "Saudi Arabia",
+            "Oman",
+            "Qatar"
+        ],
+        "correct_answer": "United Arab Emirates"
+    },
+    {
+        "category": "middleeast",
+        "country": "Iran",
+        "map_image": "assets/maps/middleeast/ir.png",
+        "options": [
+            "Iran",
+            "Iraq",
+            "Afghanistan",
+            "Pakistan"
+        ],
+        "correct_answer": "Iran"
+    },
+    {
+        "category": "middleeast",
+        "country": "Iraq",
+        "map_image": "assets/maps/middleeast/iq.png",
+        "options": [
+            "Iraq",
+            "Iran",
+            "Syria",
+            "Jordan"
+        ],
+        "correct_answer": "Iraq"
+    },
+    {
+        "category": "middleeast",
+        "country": "Israel",
+        "map_image": "assets/maps/middleeast/il.png",
+        "options": [
+            "Israel",
+            "Jordan",
+            "Lebanon",
+            "Syria"
+        ],
+        "correct_answer": "Israel"
+    },
+    {
+        "category": "middleeast",
+        "country": "Jordan",
+        "map_image": "assets/maps/middleeast/jo.png",
+        "options": [
+            "Jordan",
+            "Israel",
+            "Syria",
+            "Iraq"
+        ],
+        "correct_answer": "Jordan"
+    },
+    {
+        "category": "middleeast",
+        "country": "Lebanon",
+        "map_image": "assets/maps/middleeast/lb.png",
+        "options": [
+            "Lebanon",
+            "Israel",
+            "Syria",
+            "Jordan"
+        ],
+        "correct_answer": "Lebanon"
+    },
+    {
+        "category": "middleeast",
+        "country": "Syria",
+        "map_image": "assets/maps/middleeast/sy.png",
+        "options": [
+            "Syria",
+            "Iraq",
+            "Jordan",
+            "Turkey"
+        ],
+        "correct_answer": "Syria"
+    },
+    {
+        "category": "middleeast",
+        "country": "Yemen",
+        "map_image": "assets/maps/middleeast/ye.png",
+        "options": [
+            "Yemen",
+            "Oman",
+            "Saudi Arabia",
+            "United Arab Emirates"
+        ],
+        "correct_answer": "Yemen"
+    },
+    {
+        "category": "middleeast",
+        "country": "Oman",
+        "map_image": "assets/maps/middleeast/om.png",
+        "options": [
+            "Oman",
+            "Yemen",
+            "Saudi Arabia",
+            "United Arab Emirates"
+        ],
+        "correct_answer": "Oman"
+    },
+    {
+        "category": "middleeast",
+        "country": "Qatar",
+        "map_image": "assets/maps/middleeast/qa.png",
+        "options": [
+            "Qatar",
+            "United Arab Emirates",
+            "Saudi Arabia",
+            "Oman"
+        ],
+        "correct_answer": "Qatar"
+    },
+    {
+        "category": "middleeast",
+        "country": "Kuwait",
+        "map_image": "assets/maps/middleeast/kw.png",
+        "options": [
+            "Kuwait",
+            "Iraq",
+            "Saudi Arabia",
+            "Bahrain"
+        ],
+        "correct_answer": "Kuwait"
+    },
+    {
+        "category": "middleeast",
+        "country": "Bahrain",
+        "map_image": "assets/maps/middleeast/bh.png",
+        "options": [
+            "Bahrain",
+            "Qatar",
+            "Saudi Arabia",
+            "Kuwait"
+        ],
+        "correct_answer": "Bahrain"
+    },
+    {
+        "category": "easterneurope",
+        "country": "Russia",
+        "map_image": "assets/maps/easterneurope/ru.png",
+        "options": [
+            "Russia",
+            "Ukraine",
+            "Belarus",
+            "Poland"
+        ],
+        "correct_answer": "Russia"
+    },
+    {
+        "category": "easterneurope",
+        "country": "Poland",
+        "map_image": "assets/maps/easterneurope/pl.png",
+        "options": [
+            "Poland",
+            "Germany",
+            "Ukraine",
+            "Czech Republic"
+        ],
+        "correct_answer": "Poland"
+    },
+    {
+        "category": "easterneurope",
+        "country": "Ukraine",
+        "map_image": "assets/maps/easterneurope/ua.png",
+        "options": [
+            "Ukraine",
+            "Russia",
+            "Poland",
+            "Belarus"
+        ],
+        "correct_answer": "Ukraine"
+    },
+    {
+        "category": "easterneurope",
+        "country": "Czech Republic",
+        "map_image": "assets/maps/easterneurope/cz.png",
+        "options": [
+            "Czech Republic",
+            "Poland",
+            "Slovakia",
+            "Austria"
+        ],
+        "correct_answer": "Czech Republic"
+    },
+    {
+        "category": "easterneurope",
+        "country": "Hungary",
+        "map_image": "assets/maps/easterneurope/hu.png",
+        "options": [
+            "Hungary",
+            "Austria",
+            "Slovakia",
+            "Romania"
+        ],
+        "correct_answer": "Hungary"
+    },
+    {
+        "category": "easterneurope",
+        "country": "Romania",
+        "map_image": "assets/maps/easterneurope/ro.png",
+        "options": [
+            "Romania",
+            "Hungary",
+            "Bulgaria",
+            "Ukraine"
+        ],
+        "correct_answer": "Romania"
+    },
+    {
+        "category": "easterneurope",
+        "country": "Bulgaria",
+        "map_image": "assets/maps/easterneurope/bg.png",
+        "options": [
+            "Bulgaria",
+            "Romania",
+            "Serbia",
+            "Greece"
+        ],
+        "correct_answer": "Bulgaria"
+    },
+    {
+        "category": "easterneurope",
+        "country": "Slovakia",
+        "map_image": "assets/maps/easterneurope/sk.png",
+        "options": [
+            "Slovakia",
+            "Czech Republic",
+            "Poland",
+            "Hungary"
+        ],
+        "correct_answer": "Slovakia"
+    },
+    {
+        "category": "easterneurope",
+        "country": "Belarus",
+        "map_image": "assets/maps/easterneurope/by.png",
+        "options": [
+            "Belarus",
+            "Russia",
+            "Ukraine",
+            "Poland"
+        ],
+        "correct_answer": "Belarus"
+    },
+    {
+        "category": "easterneurope",
+        "country": "Moldova",
+        "map_image": "assets/maps/easterneurope/md.png",
+        "options": [
+            "Moldova",
+            "Romania",
+            "Ukraine",
+            "Bulgaria"
+        ],
+        "correct_answer": "Moldova"
+    },
+    {
+        "category": "easterneurope",
+        "country": "Estonia",
+        "map_image": "assets/maps/easterneurope/ee.png",
+        "options": [
+            "Estonia",
+            "Latvia",
+            "Lithuania",
+            "Finland"
+        ],
+        "correct_answer": "Estonia"
+    },
+    {
+        "category": "easterneurope",
+        "country": "Latvia",
+        "map_image": "assets/maps/easterneurope/lv.png",
+        "options": [
+            "Latvia",
+            "Estonia",
+            "Lithuania",
+            "Russia"
+        ],
+        "correct_answer": "Latvia"
+    },
+    {
+        "category": "easterneurope",
+        "country": "Lithuania",
+        "map_image": "assets/maps/easterneurope/lt.png",
+        "options": [
+            "Lithuania",
+            "Latvia",
+            "Poland",
+            "Belarus"
+        ],
+        "correct_answer": "Lithuania"
+    },
+    {
+        "category": "latinamerica",
+        "country": "Brazil",
+        "map_image": "assets/maps/latinamerica/br.png",
+        "options": [
+            "Brazil",
+            "Argentina",
+            "Peru",
+            "Chile"
+        ],
+        "correct_answer": "Brazil"
+    },
+    {
+        "category": "latinamerica",
+        "country": "Mexico",
+        "map_image": "assets/maps/latinamerica/mx.png",
+        "options": [
+            "Mexico",
+            "Colombia",
+            "Argentina",
+            "Brazil"
+        ],
+        "correct_answer": "Mexico"
+    },
+    {
+        "category": "latinamerica",
+        "country": "Argentina",
+        "map_image": "assets/maps/latinamerica/ar.png",
+        "options": [
+            "Argentina",
+            "Chile",
+            "Uruguay",
+            "Paraguay"
+        ],
+        "correct_answer": "Argentina"
+    },
+    {
+        "category": "latinamerica",
+        "country": "Chile",
+        "map_image": "assets/maps/latinamerica/cl.png",
+        "options": [
+            "Chile",
+            "Argentina",
+            "Peru",
+            "Bolivia"
+        ],
+        "correct_answer": "Chile"
+    },
+    {
+        "category": "latinamerica",
+        "country": "Peru",
+        "map_image": "assets/maps/latinamerica/pe.png",
+        "options": [
+            "Peru",
+            "Ecuador",
+            "Bolivia",
+            "Colombia"
+        ],
+        "correct_answer": "Peru"
+    },
+    {
+        "category": "latinamerica",
+        "country": "Colombia",
+        "map_image": "assets/maps/latinamerica/co.png",
+        "options": [
+            "Colombia",
+            "Venezuela",
+            "Peru",
+            "Ecuador"
+        ],
+        "correct_answer": "Colombia"
+    },
+    {
+        "category": "latinamerica",
+        "country": "Uruguay",
+        "map_image": "assets/maps/latinamerica/uy.png",
+        "options": [
+            "Uruguay",
+            "Argentina",
+            "Brazil",
+            "Paraguay"
+        ],
+        "correct_answer": "Uruguay"
+    },
+    {
+        "category": "latinamerica",
+        "country": "Paraguay",
+        "map_image": "assets/maps/latinamerica/py.png",
+        "options": [
+            "Paraguay",
+            "Brazil",
+            "Argentina",
+            "Bolivia"
+        ],
+        "correct_answer": "Paraguay"
+    },
+    {
+        "category": "latinamerica",
+        "country": "Ecuador",
+        "map_image": "assets/maps/latinamerica/ec.png",
+        "options": [
+            "Ecuador",
+            "Colombia",
+            "Peru",
+            "Chile"
+        ],
+        "correct_answer": "Ecuador"
+    },
+    {
+        "category": "latinamerica",
+        "country": "Bolivia",
+        "map_image": "assets/maps/latinamerica/bo.png",
+        "options": [
+            "Bolivia",
+            "Paraguay",
+            "Peru",
+            "Argentina"
+        ],
+        "correct_answer": "Bolivia"
+    },
+    {
+        "category": "latinamerica",
+        "country": "Venezuela",
+        "map_image": "assets/maps/latinamerica/ve.png",
+        "options": [
+            "Venezuela",
+            "Colombia",
+            "Brazil",
+            "Guyana"
+        ],
+        "correct_answer": "Venezuela"
+    },
+    {
+        "category": "latinamerica",
+        "country": "Haiti",
+        "map_image": "assets/maps/latinamerica/ht.png",
+        "options": [
+            "Haiti",
+            "Dominican Republic",
+            "Jamaica",
+            "Cuba"
+        ],
+        "correct_answer": "Haiti"
+    },
+    {
+        "category": "latinamerica",
+        "country": "Dominican Republic",
+        "map_image": "assets/maps/latinamerica/do.png",
+        "options": [
+            "Dominican Republic",
+            "Haiti",
+            "Cuba",
+            "Puerto Rico"
+        ],
+        "correct_answer": "Dominican Republic"
+    },
+    {
+        "category": "latinamerica",
+        "country": "Guyana",
+        "map_image": "assets/maps/latinamerica/gy.png",
+        "options": [
+            "Guyana",
+            "Venezuela",
+            "Suriname",
+            "Brazil"
+        ],
+        "correct_answer": "Guyana"
+    },
+    {
+        "category": "latinamerica",
+        "country": "Suriname",
+        "map_image": "assets/maps/latinamerica/sr.png",
+        "options": [
+            "Suriname",
+            "Guyana",
+            "Brazil",
+            "French Guiana"
+        ],
+        "correct_answer": "Suriname"
+    },
+    {
+        "category": "latinamerica",
+        "country": "Guatemala",
+        "map_image": "assets/maps/latinamerica/gt.png",
+        "options": [
+            "Guatemala",
+            "Mexico",
+            "Honduras",
+            "Costa Rica"
+        ],
+        "correct_answer": "Guatemala"
+    },
+    {
+        "category": "latinamerica",
+        "country": "French Guiana",
+        "map_image": "assets/maps/latinamerica/gf.png",
+        "options": [
+            "French Guiana",
+            "Suriname",
+            "Brazil",
+            "Guyana"
+        ],
+        "correct_answer": "French Guiana"
+    },
+    {
+        "category": "latinamerica",
+        "country": "Antigua and Barbuda",
+        "map_image": "assets/maps/latinamerica/ag.png",
+        "options": [
+            "Antigua and Barbuda",
+            "Barbados",
+            "Saint Kitts and Nevis",
+            "Saint Lucia"
+        ],
+        "correct_answer": "Antigua and Barbuda"
+    },
+    {
+        "category": "latinamerica",
+        "country": "Barbados",
+        "map_image": "assets/maps/latinamerica/bb.png",
+        "options": [
+            "Barbados",
+            "Trinidad and Tobago",
+            "Saint Lucia",
+            "Grenada"
+        ],
+        "correct_answer": "Barbados"
+    },
+    {
+        "category": "latinamerica",
+        "country": "Bahamas",
+        "map_image": "assets/maps/latinamerica/bs.png",
+        "options": [
+            "Bahamas",
+            "Cuba",
+            "Haiti",
+            "Dominican Republic"
+        ],
+        "correct_answer": "Bahamas"
+    },
+    {
+        "category": "latinamerica",
+        "country": "Belize",
+        "map_image": "assets/maps/latinamerica/bz.png",
+        "options": [
+            "Belize",
+            "Guatemala",
+            "Honduras",
+            "Mexico"
+        ],
+        "correct_answer": "Belize"
+    },
+    {
+        "category": "latinamerica",
+        "country": "Costa Rica",
+        "map_image": "assets/maps/latinamerica/cr.png",
+        "options": [
+            "Costa Rica",
+            "Nicaragua",
+            "Panama",
+            "Honduras"
+        ],
+        "correct_answer": "Costa Rica"
+    },
+    {
+        "category": "latinamerica",
+        "country": "Cuba",
+        "map_image": "assets/maps/latinamerica/cu.png",
+        "options": [
+            "Cuba",
+            "Haiti",
+            "Jamaica",
+            "Dominican Republic"
+        ],
+        "correct_answer": "Cuba"
+    },
+    {
+        "category": "latinamerica",
+        "country": "Dominica",
+        "map_image": "assets/maps/latinamerica/dm.png",
+        "options": [
+            "Dominica",
+            "Saint Lucia",
+            "Barbados",
+            "Grenada"
+        ],
+        "correct_answer": "Dominica"
+    },
+    {
+        "category": "latinamerica",
+        "country": "Grenada",
+        "map_image": "assets/maps/latinamerica/gd.png",
+        "options": [
+            "Grenada",
+            "Saint Vincent and the Grenadines",
+            "Barbados",
+            "Trinidad and Tobago"
+        ],
+        "correct_answer": "Grenada"
+    },
+    {
+        "category": "latinamerica",
+        "country": "Honduras",
+        "map_image": "assets/maps/latinamerica/hn.png",
+        "options": [
+            "Honduras",
+            "Guatemala",
+            "Nicaragua",
+            "El Salvador"
+        ],
+        "correct_answer": "Honduras"
+    },
+    {
+        "category": "latinamerica",
+        "country": "Jamaica",
+        "map_image": "assets/maps/latinamerica/jm.png",
+        "options": [
+            "Jamaica",
+            "Cuba",
+            "Haiti",
+            "Dominican Republic"
+        ],
+        "correct_answer": "Jamaica"
+    },
+    {
+        "category": "latinamerica",
+        "country": "Saint Kitts and Nevis",
+        "map_image": "assets/maps/latinamerica/kn.png",
+        "options": [
+            "Saint Kitts and Nevis",
+            "Antigua and Barbuda",
+            "Saint Lucia",
+            "Barbados"
+        ],
+        "correct_answer": "Saint Kitts and Nevis"
+    },
+    {
+        "category": "latinamerica",
+        "country": "Saint Lucia",
+        "map_image": "assets/maps/latinamerica/lc.png",
+        "options": [
+            "Saint Lucia",
+            "Saint Vincent and the Grenadines",
+            "Barbados",
+            "Grenada"
+        ],
+        "correct_answer": "Saint Lucia"
+    },
+    {
+        "category": "latinamerica",
+        "country": "Nicaragua",
+        "map_image": "assets/maps/latinamerica/ni.png",
+        "options": [
+            "Nicaragua",
+            "Costa Rica",
+            "Honduras",
+            "El Salvador"
+        ],
+        "correct_answer": "Nicaragua"
+    },
+    {
+        "category": "latinamerica",
+        "country": "Panama",
+        "map_image": "assets/maps/latinamerica/pa.png",
+        "options": [
+            "Panama",
+            "Costa Rica",
+            "Colombia",
+            "Nicaragua"
+        ],
+        "correct_answer": "Panama"
+    },
+    {
+        "category": "latinamerica",
+        "country": "El Salvador",
+        "map_image": "assets/maps/latinamerica/sv.png",
+        "options": [
+            "El Salvador",
+            "Honduras",
+            "Guatemala",
+            "Nicaragua"
+        ],
+        "correct_answer": "El Salvador"
+    },
+    {
+        "category": "latinamerica",
+        "country": "Trinidad and Tobago",
+        "map_image": "assets/maps/latinamerica/tt.png",
+        "options": [
+            "Trinidad and Tobago",
+            "Barbados",
+            "Grenada",
+            "Saint Vincent and the Grenadines"
+        ],
+        "correct_answer": "Trinidad and Tobago"
+    },
+    {
+        "category": "latinamerica",
+        "country": "Saint Vincent and the Grenadines",
+        "map_image": "assets/maps/latinamerica/vc.png",
+        "options": [
+            "Saint Vincent and the Grenadines",
+            "Saint Lucia",
+            "Barbados",
+            "Grenada"
+        ],
+        "correct_answer": "Saint Vincent and the Grenadines"
+    },
+    {
+        "category": "southeastasia",
+        "country": "Indonesia",
+        "map_image": "assets/maps/southeastasia/id.png",
+        "options": [
+            "Indonesia",
+            "Malaysia",
+            "Philippines",
+            "Thailand"
+        ],
+        "correct_answer": "Indonesia"
+    },
+    {
+        "category": "southeastasia",
+        "country": "Thailand",
+        "map_image": "assets/maps/southeastasia/th.png",
+        "options": [
+            "Thailand",
+            "Cambodia",
+            "Vietnam",
+            "Myanmar"
+        ],
+        "correct_answer": "Thailand"
+    },
+    {
+        "category": "southeastasia",
+        "country": "Vietnam",
+        "map_image": "assets/maps/southeastasia/vn.png",
+        "options": [
+            "Vietnam",
+            "Thailand",
+            "Cambodia",
+            "Laos"
+        ],
+        "correct_answer": "Vietnam"
+    },
+    {
+        "category": "southeastasia",
+        "country": "Malaysia",
+        "map_image": "assets/maps/southeastasia/my.png",
+        "options": [
+            "Malaysia",
+            "Indonesia",
+            "Thailand",
+            "Brunei"
+        ],
+        "correct_answer": "Malaysia"
+    },
+    {
+        "category": "southeastasia",
+        "country": "Philippines",
+        "map_image": "assets/maps/southeastasia/ph.png",
+        "options": [
+            "Philippines",
+            "Indonesia",
+            "Malaysia",
+            "Vietnam"
+        ],
+        "correct_answer": "Philippines"
+    },
+    {
+        "category": "southeastasia",
+        "country": "Singapore",
+        "map_image": "assets/maps/southeastasia/sg.png",
+        "options": [
+            "Singapore",
+            "Malaysia",
+            "Indonesia",
+            "Thailand"
+        ],
+        "correct_answer": "Singapore"
+    },
+    {
+        "category": "southeastasia",
+        "country": "Myanmar",
+        "map_image": "assets/maps/southeastasia/mm.png",
+        "options": [
+            "Myanmar",
+            "Thailand",
+            "Laos",
+            "Bangladesh"
+        ],
+        "correct_answer": "Myanmar"
+    },
+    {
+        "category": "southeastasia",
+        "country": "Cambodia",
+        "map_image": "assets/maps/southeastasia/kh.png",
+        "options": [
+            "Cambodia",
+            "Vietnam",
+            "Thailand",
+            "Laos"
+        ],
+        "correct_answer": "Cambodia"
+    },
+    {
+        "category": "southeastasia",
+        "country": "Laos",
+        "map_image": "assets/maps/southeastasia/la.png",
+        "options": [
+            "Laos",
+            "Vietnam",
+            "Cambodia",
+            "Thailand"
+        ],
+        "correct_answer": "Laos"
+    },
+    {
+        "category": "southeastasia",
+        "country": "Brunei",
+        "map_image": "assets/maps/southeastasia/bn.png",
+        "options": [
+            "Brunei",
+            "Malaysia",
+            "Indonesia",
+            "Philippines"
+        ],
+        "correct_answer": "Brunei"
+    },
+    {
+        "category": "southeastasia",
+        "country": "East Timor",
+        "map_image": "assets/maps/southeastasia/tl.png",
+        "options": [
+            "East Timor",
+            "Indonesia",
+            "Philippines",
+            "Papua New Guinea"
+        ],
+        "correct_answer": "East Timor"
+    },
+    {
+        "category": "centralasia",
+        "country": "Kazakhstan",
+        "map_image": "assets/maps/centralasia/kz.png",
+        "options": [
+            "Kazakhstan",
+            "Uzbekistan",
+            "Turkmenistan",
+            "Kyrgyzstan"
+        ],
+        "correct_answer": "Kazakhstan"
+    },
+    {
+        "category": "centralasia",
+        "country": "Uzbekistan",
+        "map_image": "assets/maps/centralasia/uz.png",
+        "options": [
+            "Uzbekistan",
+            "Kazakhstan",
+            "Turkmenistan",
+            "Kyrgyzstan"
+        ],
+        "correct_answer": "Uzbekistan"
+    },
+    {
+        "category": "centralasia",
+        "country": "Turkmenistan",
+        "map_image": "assets/maps/centralasia/tm.png",
+        "options": [
+            "Turkmenistan",
+            "Kazakhstan",
+            "Uzbekistan",
+            "Tajikistan"
+        ],
+        "correct_answer": "Turkmenistan"
+    },
+    {
+        "category": "centralasia",
+        "country": "Kyrgyzstan",
+        "map_image": "assets/maps/centralasia/kg.png",
+        "options": [
+            "Kyrgyzstan",
+            "Kazakhstan",
+            "Uzbekistan",
+            "Tajikistan"
+        ],
+        "correct_answer": "Kyrgyzstan"
+    },
+    {
+        "category": "centralasia",
+        "country": "Tajikistan",
+        "map_image": "assets/maps/centralasia/tj.png",
+        "options": [
+            "Tajikistan",
+            "Uzbekistan",
+            "Kyrgyzstan",
+            "Turkmenistan"
+        ],
+        "correct_answer": "Tajikistan"
+    },
+    {
+        "category": "southasia",
+        "country": "India",
+        "map_image": "assets/maps/southasia/in.png",
+        "options": [
+            "India",
+            "Pakistan",
+            "Bangladesh",
+            "Sri Lanka"
+        ],
+        "correct_answer": "India"
+    },
+    {
+        "category": "southasia",
+        "country": "Pakistan",
+        "map_image": "assets/maps/southasia/pk.png",
+        "options": [
+            "Pakistan",
+            "India",
+            "Afghanistan",
+            "Bangladesh"
+        ],
+        "correct_answer": "Pakistan"
+    },
+    {
+        "category": "southasia",
+        "country": "Bangladesh",
+        "map_image": "assets/maps/southasia/bd.png",
+        "options": [
+            "Bangladesh",
+            "India",
+            "Myanmar",
+            "Pakistan"
+        ],
+        "correct_answer": "Bangladesh"
+    },
+    {
+        "category": "southasia",
+        "country": "Sri Lanka",
+        "map_image": "assets/maps/southasia/lk.png",
+        "options": [
+            "Sri Lanka",
+            "India",
+            "Maldives",
+            "Bangladesh"
+        ],
+        "correct_answer": "Sri Lanka"
+    },
+    {
+        "category": "southasia",
+        "country": "Nepal",
+        "map_image": "assets/maps/southasia/np.png",
+        "options": [
+            "Nepal",
+            "India",
+            "China",
+            "Bangladesh"
+        ],
+        "correct_answer": "Nepal"
+    },
+    {
+        "category": "southasia",
+        "country": "Bhutan",
+        "map_image": "assets/maps/southasia/bt.png",
+        "options": [
+            "Bhutan",
+            "India",
+            "Nepal",
+            "Bangladesh"
+        ],
+        "correct_answer": "Bhutan"
+    },
+    {
+        "category": "southasia",
+        "country": "Maldives",
+        "map_image": "assets/maps/southasia/mv.png",
+        "options": [
+            "Maldives",
+            "Sri Lanka",
+            "India",
+            "Bangladesh"
+        ],
+        "correct_answer": "Maldives"
+    },
+    {
+        "category": "southasia",
+        "country": "Afghanistan",
+        "map_image": "assets/maps/southasia/af.png",
+        "options": [
+            "Afghanistan",
+            "Pakistan",
+            "Iran",
+            "India"
+        ],
+        "correct_answer": "Afghanistan"
+    },
+    {
+        "category": "subsaharanafrica",
+        "country": "Nigeria",
+        "map_image": "assets/maps/subsaharanafrica/ng.png",
+        "options": [
+            "Nigeria",
+            "Ethiopia",
+            "Democratic Republic of the Congo",
+            "South Africa"
+        ],
+        "correct_answer": "Nigeria"
+    },
+    {
+        "category": "subsaharanafrica",
+        "country": "Ethiopia",
+        "map_image": "assets/maps/subsaharanafrica/et.png",
+        "options": [
+            "Ethiopia",
+            "Nigeria",
+            "Kenya",
+            "Tanzania"
+        ],
+        "correct_answer": "Ethiopia"
+    },
+    {
+        "category": "subsaharanafrica",
+        "country": "Democratic Republic of the Congo",
+        "map_image": "assets/maps/subsaharanafrica/cd.png",
+        "options": [
+            "Democratic Republic of the Congo",
+            "Nigeria",
+            "Uganda",
+            "Angola"
+        ],
+        "correct_answer": "Democratic Republic of the Congo"
+    },
+    {
+        "category": "subsaharanafrica",
+        "country": "South Africa",
+        "map_image": "assets/maps/subsaharanafrica/za.png",
+        "options": [
+            "South Africa",
+            "Nigeria",
+            "Angola",
+            "Kenya"
+        ],
+        "correct_answer": "South Africa"
+    },
+    {
+        "category": "subsaharanafrica",
+        "country": "Tanzania",
+        "map_image": "assets/maps/subsaharanafrica/tz.png",
+        "options": [
+            "Tanzania",
+            "Kenya",
+            "Uganda",
+            "Ethiopia"
+        ],
+        "correct_answer": "Tanzania"
+    },
+    {
+        "category": "subsaharanafrica",
+        "country": "Kenya",
+        "map_image": "assets/maps/subsaharanafrica/ke.png",
+        "options": [
+            "Kenya",
+            "Ethiopia",
+            "Tanzania",
+            "Uganda"
+        ],
+        "correct_answer": "Kenya"
+    },
+    {
+        "category": "subsaharanafrica",
+        "country": "Uganda",
+        "map_image": "assets/maps/subsaharanafrica/ug.png",
+        "options": [
+            "Uganda",
+            "Kenya",
+            "Tanzania",
+            "Rwanda"
+        ],
+        "correct_answer": "Uganda"
+    },
+    {
+        "category": "subsaharanafrica",
+        "country": "Angola",
+        "map_image": "assets/maps/subsaharanafrica/ao.png",
+        "options": [
+            "Angola",
+            "Democratic Republic of the Congo",
+            "South Africa",
+            "Nigeria"
+        ],
+        "correct_answer": "Angola"
+    },
+    {
+        "category": "oceania",
+        "country": "Australia",
+        "map_image": "assets/maps/oceania/au.png",
+        "options": [
+            "Australia",
+            "New Zealand",
+            "Fiji",
+            "Papua New Guinea"
+        ],
+        "correct_answer": "Australia"
+    },
+    {
+        "category": "oceania",
+        "country": "New Zealand",
+        "map_image": "assets/maps/oceania/nz.png",
+        "options": [
+            "New Zealand",
+            "Australia",
+            "Fiji",
+            "Vanuatu"
+        ],
+        "correct_answer": "New Zealand"
+    },
+    {
+        "category": "oceania",
+        "country": "Fiji",
+        "map_image": "assets/maps/oceania/fj.png",
+        "options": [
+            "Fiji",
+            "Australia",
+            "New Zealand",
+            "Samoa"
+        ],
+        "correct_answer": "Fiji"
+    },
+    {
+        "category": "oceania",
+        "country": "Papua New Guinea",
+        "map_image": "assets/maps/oceania/pg.png",
+        "options": [
+            "Papua New Guinea",
+            "Australia",
+            "Indonesia",
+            "Solomon Islands"
+        ],
+        "correct_answer": "Papua New Guinea"
+    },
+    {
+        "category": "oceania",
+        "country": "Solomon Islands",
+        "map_image": "assets/maps/oceania/sb.png",
+        "options": [
+            "Solomon Islands",
+            "Papua New Guinea",
+            "Vanuatu",
+            "Fiji"
+        ],
+        "correct_answer": "Solomon Islands"
+    },
+    {
+        "category": "oceania",
+        "country": "Vanuatu",
+        "map_image": "assets/maps/oceania/vu.png",
+        "options": [
+            "Vanuatu",
+            "Fiji",
+            "New Zealand",
+            "Solomon Islands"
+        ],
+        "correct_answer": "Vanuatu"
+    },
+    {
+        "category": "oceania",
+        "country": "Samoa",
+        "map_image": "assets/maps/oceania/ws.png",
+        "options": [
+            "Samoa",
+            "Fiji",
+            "New Zealand",
+            "Tonga"
+        ],
+        "correct_answer": "Samoa"
+    },
+    {
+        "category": "oceania",
+        "country": "Tonga",
+        "map_image": "assets/maps/oceania/to.png",
+        "options": [
+            "Tonga",
+            "Samoa",
+            "Fiji",
+            "New Zealand"
+        ],
+        "correct_answer": "Tonga"
+    },
+    {
+        "category": "oceania",
+        "country": "Kiribati",
+        "map_image": "assets/maps/oceania/ki.png",
+        "options": [
+            "Kiribati",
+            "Tuvalu",
+            "Nauru",
+            "Marshall Islands"
+        ],
+        "correct_answer": "Kiribati"
+    },
+    {
+        "category": "oceania",
+        "country": "Tuvalu",
+        "map_image": "assets/maps/oceania/tv.png",
+        "options": [
+            "Tuvalu",
+            "Kiribati",
+            "Nauru",
+            "Marshall Islands"
+        ],
+        "correct_answer": "Tuvalu"
+    },
+    {
+        "category": "oceania",
+        "country": "Nauru",
+        "map_image": "assets/maps/oceania/nr.png",
+        "options": [
+            "Nauru",
+            "Kiribati",
+            "Tuvalu",
+            "Marshall Islands"
+        ],
+        "correct_answer": "Nauru"
+    },
+    {
+        "category": "oceania",
+        "country": "Marshall Islands",
+        "map_image": "assets/maps/oceania/mh.png",
+        "options": [
+            "Marshall Islands",
+            "Kiribati",
+            "Tuvalu",
+            "Nauru"
+        ],
+        "correct_answer": "Marshall Islands"
+    },
+    {
+        "category": "oceania",
+        "country": "Palau",
+        "map_image": "assets/maps/oceania/pw.png",
+        "options": [
+            "Palau",
+            "Micronesia",
+            "Marshall Islands",
+            "Papua New Guinea"
+        ],
+        "correct_answer": "Palau"
+    },
+    {
+        "category": "oceania",
+        "country": "Micronesia",
+        "map_image": "assets/maps/oceania/fm.png",
+        "options": [
+            "Micronesia",
+            "Palau",
+            "Marshall Islands",
+            "Papua New Guinea"
+        ],
+        "correct_answer": "Micronesia"
+    },
+    {
+        "category": "oceania",
+        "country": "Federated States of Micronesia",
+        "map_image": "assets/maps/oceania/fm.png",
+        "options": [
+            "Federated States of Micronesia",
+            "Palau",
+            "Marshall Islands",
+            "Papua New Guinea"
+        ],
+        "correct_answer": "Federated States of Micronesia"
+    }
+]
